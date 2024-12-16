@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "876093159dfa50b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "78356355a9e55c28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59c6eb312a4c9d77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curso Markdown.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Curso Markdown"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5bce9e62588276da",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5124db998759595",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f69004bf63e81e68",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "7fe7d6b5c5b6f52d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "1e0210122f17866e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c7670afc260c14a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f80098540cb72f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18d50cbf9e607839",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Curso Markdown.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Curso Markdown"
+            }
+          },
+          {
+            "id": "16b866d825e834a9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Curso Markdown.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Curso Markdown"
+            }
+          },
+          {
+            "id": "d2e3bf5344bce645",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "42ac5df989778f73",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Curso Markdown.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Curso Markdown"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "59c6eb312a4c9d77",
+  "lastOpenFiles": [
+    "Curso Markdown.md",
+    "Otra nota.md",
+    "saddas.md",
+    "Sin título.canvas",
+    "2024-09-30.md",
+    "cree un enlace.md",
+    "Bienvenido.md"
+  ]
+}
